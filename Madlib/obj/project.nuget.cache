@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHxJHL67KMxuT9r8LDtgWOwp10nAM9U4r8BdeO8TakkBnLta8o2q3u16YCA0ycM0DyLFPhCpc21AJvi00H/VlQ==",
+  "success": true,
+  "projectFilePath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/Madlib.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramenimo/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.16/microsoft.netcore.app.host.osx-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
