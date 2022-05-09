@@ -20,6 +20,7 @@ namespace Madlib
 
     public void ConfigureServices(IServiceCollection services)
     {
+      
       services.AddMvc();
     }
 
@@ -33,6 +34,8 @@ namespace Madlib
       {
         routes.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
       });
+
+      app.UseStaticFiles();
 
       app.Run(async (context) =>
       {
