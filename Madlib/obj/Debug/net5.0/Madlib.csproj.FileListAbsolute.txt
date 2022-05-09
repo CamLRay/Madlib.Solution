@@ -30,3 +30,6 @@
 /Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/Debug/net5.0/Madlib.csproj.CopyComplete
 /Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/Debug/net5.0/Razor/Views/Home/MadlibForm.cshtml.g.cs
 /Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/Debug/net5.0/Razor/Views/Home/MadlibGame.cshtml.g.cs
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/Debug/net5.0/Razor/Views/Home/MadlibFormTwo.cshtml.g.cs
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/Debug/net5.0/Razor/Views/Home/MadlibGameTwo.cshtml.g.cs
+/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/Debug/net5.0/Razor/Views/Home/MadlibLanding.cshtml.g.cs

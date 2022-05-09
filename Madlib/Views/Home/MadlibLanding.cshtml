@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>Madlibs</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <link rel="stylesheet" href="~/css/styles.css" type="text/css">
+  </head>
+  <body>
+    <h1>Welcome to Mad Libs!</h1>
+    <h4>What Madlib would you like to do?</h4>
+    <form action="/random" method="post">
+      <select name="form" id="madlib-select">
+        <option value="random">Random story</option>
+        <option value="denmark">Denmark story</option>
+        <option value="uzbekistan">Uzbekistan story</option>
+      </select>
+      <button type="submit">Submit</button>
+    </form>
+    
+  </body>
+</html>
