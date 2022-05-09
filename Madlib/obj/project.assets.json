@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/ramenimo/.nuget/packages/": {}
+    "C:\\Users\\Sploob\\.nuget\\packages\\": {},
+    "D:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/Madlib.csproj",
+      "projectUniqueName": "C:\\Users\\Sploob\\Desktop\\madlib-mvc\\Madlib\\Madlib.csproj",
       "projectName": "Madlib",
-      "projectPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/Madlib.csproj",
-      "packagesPath": "/Users/ramenimo/.nuget/packages/",
-      "outputPath": "/Users/ramenimo/Desktop/Epicodous/C-sharp/Projects/week-two/Madlib.Solutions/Madlib/obj/",
+      "projectPath": "C:\\Users\\Sploob\\Desktop\\madlib-mvc\\Madlib\\Madlib.csproj",
+      "packagesPath": "C:\\Users\\Sploob\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sploob\\Desktop\\madlib-mvc\\Madlib\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/ramenimo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Sploob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,12 +60,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-x64",
-            "version": "[5.0.16, 5.0.16]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -67,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
