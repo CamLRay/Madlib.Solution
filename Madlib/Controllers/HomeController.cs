@@ -11,11 +11,11 @@ namespace Madlib.Controllers
       return View();
     }
 
-    [Rout("/madlibgame")]
+    [Route("/madlibgame")]
     public ActionResult MadlibGame(string noun, string adjective, string exclamation, string verb)
     {
       MadlibVariable myMadlibVariable = new MadlibVariable();
-
+      
       myMadlibVariable.Noun = noun;
       myMadlibVariable.Adjective = adjective;
       myMadlibVariable.Exclamation = exclamation;
