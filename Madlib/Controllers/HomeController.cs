@@ -52,7 +52,7 @@ namespace Madlib.Controllers
     public ActionResult MadlibGame(string noun, string adjective, string exclamation, string verb)
     {
       MadlibVariable myMadlibVariable = new MadlibVariable();
-      
+      myMadlibVariable.Image = "https://www.commonwealthfund.org/sites/default/files/styles/countries_hero_desktop/public/country_image_Denmark.jpg?h=fa1c963e&itok=h7srHtpK";
       myMadlibVariable.Noun = noun;
       myMadlibVariable.Adjective = adjective;
       myMadlibVariable.Exclamation = exclamation;
@@ -64,7 +64,7 @@ namespace Madlib.Controllers
     public ActionResult MadlibGameTwo(string noun, string nounTwo, string adjective, string exclamation, string verb, string verbTwo, string verbThree)
     {
       MadlibVariable myMadlibVariable = new MadlibVariable();
-      
+      myMadlibVariable.Image = "https://www.nationsonline.org/gallery/Uzbekistan/Registan-Samarkand-Uzbekistan.jpg";
       myMadlibVariable.Noun = noun;
       myMadlibVariable.Noun2 = nounTwo;
       myMadlibVariable.Adjective = adjective;
@@ -79,7 +79,7 @@ namespace Madlib.Controllers
     public ActionResult MadlibGameThree(string noun, string nounTwo, string adjective, string adjectiveTwo, string exclamation, string exclamationTwo, string verb, string verbTwo, string verbThree)
     {
       MadlibVariable myMadlibVariable = new MadlibVariable();
-      
+      myMadlibVariable.Image = "https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80";
       myMadlibVariable.Noun = noun;
       myMadlibVariable.Noun2 = nounTwo;
       myMadlibVariable.Adjective = adjective;

@@ -11,6 +11,7 @@ namespace Madlib.Models
     public string Verb { get; set; }
     public string Verb2 { get; set; }
     public string Verb3 { get; set; }
-    public int Random { get; set;}
+    public int Random { get; set; }
+    public string Image { get; set; }
   }
 }

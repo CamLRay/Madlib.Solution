@@ -1,7 +1,23 @@
 body {
   margin: 20px;
   text-align: center;
+  color:antiquewhite;
+  background-color: rgb(116, 116, 116);
 }
-h1 {
-  color: red;
+
+a {
+  text-decoration: none;
+
+}
+
+a:visited {
+  color:antiquewhite;
+}
+
+a:hover {
+  color: purple;
+}
+
+img {
+  width: 400px;
 }
